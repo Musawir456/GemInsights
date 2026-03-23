@@ -1,0 +1,22 @@
+google-generativeai
+pandas
+numpy
+matplotlib
+seaborn
+python-box
+pexpect
+streamlit
+joblib
+ensure
+dataframe_image
+jinja2
+PyYAML
+autoviz
+ipython
+google-cloud-aiplatform
+markdown
+litellm
+trulens-eval
+llama-index
+openpyxl
+-e .
