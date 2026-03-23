@@ -72,17 +72,6 @@ These installation instructions assume that you have conda installed and added t
 - Evaluation
 
 
-## Team members 👥
-
-
-- [Izam Mohammed](https://github.com/izam-mohammed)
-- [Vishu Prakash](https://github.com/vishnuprksh)
-- [Afsal](https://github.com/AfsalAfzz-Pro)
-- [Josekutty](https://github.com/jkutty-7)
-- [AbduRahiman](https://github.com/abdurahiman-offc)
-- [Amal](https://github.com/Amallmmd)
-
-
 ## Repository Code Formatting 📝
 
 
